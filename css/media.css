@@ -1,0 +1,36 @@
+/* smart phone and tablets from 0 to 767px */
+@media (max-width:767px){
+
+.content .left-sec { margin-right: 0;}
+
+footer .navbar-toggler{margin: auto;}
+
+.content .first-part .next-button i{font-size:2em ;}
+
+.shadow-center {width: 88%;}
+
+.shadow-sides .right-part { margin-left: 140px;}
+
+.header{margin-top: 0;}
+}
+
+
+/* smal screen from 768px to 991px*/
+@media (min-width:768px){
+
+footer.navbar-toggler{margin: auto;}
+
+.shadow-sides .right-part { margin-left: 300px;}
+
+.shadow-center {width: 88%;}
+}
+
+
+
+/* medieum screen from 992px to 1199px*/
+@media (min-width:992px){
+
+}
+
+/*large screen from 1200px*/
+@media (min-width: 1200px){}
